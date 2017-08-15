@@ -9,3 +9,9 @@
 1.运行程序输出第一级菜单\
 2.选择一级菜单某项，输出二级菜单，同理输出三级菜单\
 3.菜单数据保存在文件中
+
+博客园
+http://www.cnblogs.com/karlmarx123/p/7353307.html
+
+github
+https://github.com/fuzhiming/Python
