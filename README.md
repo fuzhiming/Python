@@ -11,7 +11,9 @@
 3.菜单数据保存在文件中
 
 博客园
+作业
 http://www.cnblogs.com/karlmarx123/p/7353307.html
-
+学习笔记
+http://www.cnblogs.com/karlmarx123/p/7373221.html
 github
 https://github.com/fuzhiming/Python
