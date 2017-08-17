@@ -18,6 +18,5 @@ http://www.cnblogs.com/karlmarx123/p/7353307.html
 学习笔记\
 http://www.cnblogs.com/karlmarx123/p/7373221.html
 
-github:
-
+github:\
 https://github.com/fuzhiming/Python
